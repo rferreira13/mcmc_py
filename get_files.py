@@ -1,1 +1,1 @@
-"just starting :)"
+x = 2
